@@ -1,8 +1,8 @@
 # Power BI-dashboard-projects
-Collection of power BI dashboard - Business Analytics portfolio
+Collection of Power BI dashboards - Business Analytics portfolio
 
 ### Projects
-- **01 -Eyes Glasses Case study
+- **01 -Eyes Glasses Case Study **
   'EG_case_final.pbix'
   - Dashboard for EG business case analysis
 
@@ -12,5 +12,15 @@ Collection of power BI dashboard - Business Analytics portfolio
    
     ### Tools
     Power BI, DAX. Power Query
------
-More dashboards coming soon.
+    
+--------------------------------------------------
+
+- ** 02 - Baria Planning Solution Inc (case study) - New
+  'Baria_planning_solution_dashboard.pbix'
+  
+  ### How to view
+    1. Download the .pbix file
+    2. Open with Power BI Desktop
+  
+    ### Tools
+    Power BI, DAX. Power Query
